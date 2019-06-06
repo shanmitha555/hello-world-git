@@ -1,2 +1,4 @@
 # hello-world-git
-First repo seeing the Git tutorial
+Hi, 
+
+I am Shan, how are you? 
